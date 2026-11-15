@@ -1,0 +1,12 @@
+* {
+  background-color: rgb(254, 136, 136);
+  box-sizing: border-box;
+  font-family: "Times New Roman", sans-serif;
+}
+body {
+  margin: auto 500px;
+}
+h1 {
+  text-align: center;
+  font-family: "Brush Script MT", "Times New Roman", sans-serif;
+}
